@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:windowBackground">@color/colorSecondary</item>s
+    </style>
+
+    <style name="SeniorTheme" parent="AppTheme">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="EditTextTheme">
+        <item name="colorControlNormal">@color/colorSecondary</item>
+        <item name="colorControlActivated">@color/colorSecondary</item>
+        <item name="colorControlHighlight">@color/colorSecondary</item>
+    </style>
+
+
+    <style name="SecondaryEditTextTheme">
+        <item name="colorControlNormal">@color/colorTertiary</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+    </style>
+
+    <style name="LabelTheme" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/colorSecondary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SecondaryLabelTheme" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

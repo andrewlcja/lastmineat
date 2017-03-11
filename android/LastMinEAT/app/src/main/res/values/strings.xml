@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LastMinEAT</string>
+
+    <!-- API Endpoint -->
+    <string name="api_endpoint">http://ec2-52-40-168-112.us-west-2.compute.amazonaws.com/LastMinEAT/api/</string>
+
+    <!-- Facebook App ID -->
+    <string name="facebook_app_id">1674730166161629</string>
+
+    <!-- Shared Preferences -->
+    <string name="shared_preferences">MyPrefs</string>
+
+    <!-- Error Messages -->
+    <string name="error_required">This field is required</string>
+    <string name="error_internet">Please enable your internet connection</string>
+
+    <!-- Dialog Text -->
+    <string name="default_dialog_positive_text">Yes</string>
+    <string name="default_dialog_negative_text">Cancel</string>
+    <string name="default_dialog_wait_text">Please wait...</string>
+    <string name="default_dialog_neutral_text">Okay</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
